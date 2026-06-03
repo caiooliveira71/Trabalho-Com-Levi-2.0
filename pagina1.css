@@ -29,6 +29,10 @@ img {
     border: 5px solid white;
 }
 
-a {
-    color: white;
+button {
+    display: block;
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px auto;
 }
