@@ -1,6 +1,19 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box
+    margin-bottom: 20px;
+    padding: 20px;
+    box-sizing: 20px;
+
 }
 
+h1 {
+    text-align: center;
+    text-decoration-line: none;
+
+}
+
+body {
+    background-color:black;
+    color:aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
